@@ -1,0 +1,93 @@
+body{
+    border: 4px solid green;
+     background-image: url("images.jpg");
+}
+
+.div1{
+    border: 5px solid red;
+    border-radius: 28px;
+    flex: auto;
+    background-color: black;
+    color: white;
+    margin: 7px;
+    text-align: center;
+    width: 800px;
+   height: 4cm;
+    padding: 5px;
+    word-spacing: 2px;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: 700;
+}
+.flex1{
+    display: flex;
+}
+#overlap{
+      position: relative;
+    right: 4cm;
+    width: 1000px;
+    height: 2cm;
+    top: 15px;
+border: 5px solid red;
+background-color: black;
+border-radius: 28px;
+color: white;
+text-align: center;
+font-size: x-large;
+font-style: italic;
+font-weight: 700;
+}
+.flex2{
+    display: flex;
+}
+.card2{
+    border: 5px solid black;
+    background-color: rgb(5, 135, 109);
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+text-align: center;
+font-weight: 700;
+text-decoration: underline;
+position: relative;
+top: 5cm;
+left: 5cm;
+
+
+}
+
+.card3{
+    background-color: white;
+    border: 7px dashed red;
+    text-align: center;
+    width: 340px;
+    margin-left: 330px;
+}
+.card4{
+    
+        border: 5px solid red;
+        border-radius: 28px;
+        flex: auto;
+        background-color: black;
+        color: white;
+        margin-left: 450px;
+        text-align: center;
+        width: 30%;
+
+}
+.flex3{
+display: flex;
+flex-wrap: wrap;
+}
+.card5{
+    background-color: aqua;
+    border: 2px solid green;
+    text-align: center;
+    border-radius: 30px;
+    padding: 40px;
+    margin: 30px;
+    width: 20%;
+}
+.padding{
+    padding-top: 55px;
+}
